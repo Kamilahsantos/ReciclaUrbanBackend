@@ -30,7 +30,7 @@ public class SwaggerConfig {
 
     return new ApiInfoBuilder()
       .title("ReciclaUrban")
-      .description("The register is divided into three groups: homes, condominiums and companies. The first modality is intended for individuals who can call a picker at any time of the day to collect the material. For condominiums and companies, you can schedule a day and time of the week for a picker to go to the place. Users who deliver recyclables through the platform, accumulate points that can be redeemed for benefit")
+      .description("Connecting cooperatives and associations of collectors of recyclable materials to condominiums aimed at making residents aware of environmental issues")
       .version("1.0.0")
       .license("Apache License Version 2.0")
       .licenseUrl("https://www.apache.org/licenses/LICENSE-2.0")
