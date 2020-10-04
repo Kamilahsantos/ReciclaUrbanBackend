@@ -88,7 +88,7 @@ public class CooperativeController {
     @ApiResponse(code = 500, message = "An internal error occurred while creating the claim, it was not possible to complete your request")
   }
   )
-  @DeleteMapping("/rooms/{id}")
+  @DeleteMapping("/cooperative/{id}")
   public Map< String, Boolean > deleteCooperative(@PathVariable(value = "id") Long cooperativeId)
     throws ResourceNotFoundException {
     Cooperative cooperative = cooperativeRepository.findById(cooperativeId)
