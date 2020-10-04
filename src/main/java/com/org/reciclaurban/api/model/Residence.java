@@ -1,6 +1,6 @@
 package com.org.reciclaurban.api.model;
 
-public class Residences {
+public class Residence {
 
   //id
   //name
