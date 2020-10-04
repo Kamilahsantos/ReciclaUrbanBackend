@@ -13,8 +13,8 @@ At Recicla Urban, we are ready for something better. Based in São Paulo, our Tr
 - Java
 - Spring Web
 - Spring Data
-- h2 Database (desenvolvimento)
-- Postgres Database (produção)
+- h2 Database (development)
+- Postgres Database (production)
 - Spring Fox
 - Swagger 
 - Heroku
