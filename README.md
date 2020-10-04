@@ -17,5 +17,9 @@ At Recicla Urban, we are ready for something better. Based in São Paulo, our Tr
 - Postgres Database (produção)
 - Spring Fox
 - Swagger 
-- Hereoku
+- Heroku
+
+Application avaliable at: reciclaurban.herokuapp.com
+
+Documentation avaliable at: https://reciclaurban.herokuapp.com/swagger-ui.html
 
