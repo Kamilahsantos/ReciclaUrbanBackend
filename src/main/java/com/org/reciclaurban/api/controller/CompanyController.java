@@ -2,9 +2,7 @@ package com.org.reciclaurban.api.controller;
 
 import com.org.reciclaurban.api.exception.ResourceNotFoundException;
 import com.org.reciclaurban.api.model.Company;
-import com.org.reciclaurban.api.model.Cooperative;
 import com.org.reciclaurban.api.repository.CompanyRepository;
-import com.org.reciclaurban.api.repository.CooperativeRepository;
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiResponse;
 import io.swagger.annotations.ApiResponses;
@@ -16,7 +14,6 @@ import javax.validation.Valid;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.concurrent.ConcurrentMap;
 
 @RequestMapping("/api/v1")
 @RestController
